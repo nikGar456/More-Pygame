@@ -1,2 +1,2 @@
 # More-Pygame
-pygame
+1) Snake Game using PyGame
